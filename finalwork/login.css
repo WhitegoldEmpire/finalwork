@@ -1,0 +1,22 @@
+.parent {
+     height: 100vh;
+     width: 100vw;
+     display: flex;
+     color:  white;
+}
+.form {
+    height: 100%;
+    width: 30%;
+    background-color: lightseagreen;
+    padding: 80px;
+}
+.end {
+    height: 100%;
+    width: 60%;
+    background-color: rgb(6, 54, 77);
+    padding: 80px;
+}
+
+.white {
+    color: blue;
+}
